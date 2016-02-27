@@ -1,0 +1,24 @@
+ * {
+        font-family: monospace;
+      }
+      strong {
+        font-size: 20px;
+        text-align: center;
+      }
+      ul {
+        font-size: 20px;
+        
+      }
+      html {
+        background-color: #739900;
+        
+      }
+      p {
+        color: black;
+        font-size: 20px;
+        
+      }
+      h1 {
+        color: black;
+        text-align: center;
+      }
